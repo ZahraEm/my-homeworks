@@ -1,0 +1,13 @@
+C:\Users\Emami\source\repos\Problem2-31Dec\Problem2-31Dec\bin\Debug\netcoreapp3.1\Problem2-31Dec.exe
+C:\Users\Emami\source\repos\Problem2-31Dec\Problem2-31Dec\bin\Debug\netcoreapp3.1\Problem2-31Dec.deps.json
+C:\Users\Emami\source\repos\Problem2-31Dec\Problem2-31Dec\bin\Debug\netcoreapp3.1\Problem2-31Dec.runtimeconfig.json
+C:\Users\Emami\source\repos\Problem2-31Dec\Problem2-31Dec\bin\Debug\netcoreapp3.1\Problem2-31Dec.runtimeconfig.dev.json
+C:\Users\Emami\source\repos\Problem2-31Dec\Problem2-31Dec\bin\Debug\netcoreapp3.1\Problem2-31Dec.dll
+C:\Users\Emami\source\repos\Problem2-31Dec\Problem2-31Dec\bin\Debug\netcoreapp3.1\Problem2-31Dec.pdb
+C:\Users\Emami\source\repos\Problem2-31Dec\Problem2-31Dec\obj\Debug\netcoreapp3.1\Problem2-31Dec.csprojAssemblyReference.cache
+C:\Users\Emami\source\repos\Problem2-31Dec\Problem2-31Dec\obj\Debug\netcoreapp3.1\Problem2-31Dec.AssemblyInfoInputs.cache
+C:\Users\Emami\source\repos\Problem2-31Dec\Problem2-31Dec\obj\Debug\netcoreapp3.1\Problem2-31Dec.AssemblyInfo.cs
+C:\Users\Emami\source\repos\Problem2-31Dec\Problem2-31Dec\obj\Debug\netcoreapp3.1\Problem2-31Dec.csproj.CoreCompileInputs.cache
+C:\Users\Emami\source\repos\Problem2-31Dec\Problem2-31Dec\obj\Debug\netcoreapp3.1\Problem2-31Dec.dll
+C:\Users\Emami\source\repos\Problem2-31Dec\Problem2-31Dec\obj\Debug\netcoreapp3.1\Problem2-31Dec.pdb
+C:\Users\Emami\source\repos\Problem2-31Dec\Problem2-31Dec\obj\Debug\netcoreapp3.1\Problem2-31Dec.genruntimeconfig.cache
